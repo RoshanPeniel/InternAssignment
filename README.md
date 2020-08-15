@@ -1,6 +1,6 @@
 # InternAssignment
 Assignment for internship.
-Check for demo video in video folder.
+Check for demo video in video folder or link: https://youtu.be/j-fCKh7e2yk.
 check for the apk in apk folder.
 Check for the code in code folder.
 Check for the main project in assets folder.
